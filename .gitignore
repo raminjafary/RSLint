@@ -11,3 +11,5 @@ package-lock.json
 **/dist
 
 rslint.svg
+
+__pycache__
